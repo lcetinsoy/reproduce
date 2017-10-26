@@ -1,6 +1,5 @@
 import os
 
-
 class Experiment(object):
 
     def __init__(self, name, parameters={}):
