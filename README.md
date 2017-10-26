@@ -90,7 +90,7 @@ will be created ensuring all experiment results are kept.
 
 ### demo
 
-$ python demo/main.py
+$ python demo.py
 
 ## Roadmap
 
