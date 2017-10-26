@@ -1,6 +1,6 @@
-import os
-
 from reproduce import *
+
+import os
 
 class DummyExperiment(Experiment):
 
