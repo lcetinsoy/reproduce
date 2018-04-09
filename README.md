@@ -72,17 +72,17 @@ runner.run(experiment, result_directory)
 ```
 
 
-$ python main.py
+`python main.py`
 
 Relaunching the previous one
-$ python main.py --previous
+`python main.py --previous`
 
 Specifying the experiment
-$ python main.py --experiment <exprimentname>
+`python main.py --experiment <exprimentname>`
 
 Overriding parameters from the CLI with json format
 
-$ python main.py --override="{name: value, name: value, ...}"
+`python main.py --override="{name: value, name: value, ...}"`
 
 You can choose (with autocompletion) which experiment to run and with
 the desired parameters. For each pair of experiment, parameter_set, a folder
@@ -90,7 +90,7 @@ will be created ensuring all experiment results are kept.
 
 ### demo
 
-$ python demo.py
+`python demo.py`
 
 ## Roadmap
 
