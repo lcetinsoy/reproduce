@@ -15,7 +15,7 @@ cocoex==2.0
 colored-traceback==0.3.0
 command-not-found==0.3
 configobj==5.0.6
-cryptography==1.2.3
+cryptography==3.2
 cycler==0.10.0
 decorator==4.1.2
 defer==1.0.6
